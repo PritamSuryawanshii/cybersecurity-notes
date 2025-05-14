@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.An0nym0us.png" alt="Your Image Badge" />
+</p>
+
+
 # Cybersecurity Notes for Beginners
 
 Welcome to my collection of **Cybersecurity Notes**!  
