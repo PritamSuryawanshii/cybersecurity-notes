@@ -1,10 +1,10 @@
-# Security+ Study Notes by Pritam Suryawanshi
+# Security+ Study Notes
 
-> A structured collection of personal cybersecurity notes covering CompTIA Security+ topics, from social engineering to risk management.
+> A structured collection of personal cybersecurity notes covering Security+ topics, from social engineering to risk management.
 
 ## 📖 Overview
 
-This repository hosts detailed study notes for CompTIA Security+ (SY0‑601) organized into major topic areas. Use it as a reference or study guide to reinforce key concepts and terminology.
+This repository hosts detailed study notes for Security+ organized into major topic areas. Use it as a reference or study guide to reinforce key concepts and terminology.
 
 ---
 
@@ -252,13 +252,6 @@ Feel free to submit pull requests with updates, clarifications, or new examples!
 
 ---
 
-## 📜 License
-
-Distributed under [MIT License](LICENSE).
-
----
-
 ## 🔗 References
 
 - Notion: [Cross-Site Scripting (Hackers Handbook)](https://www.notion.so/XSS-Cross-Site-Scripting-Hackers-Handbook-1-22703ee046f580fb8eb0d9d389688898?pvs=21)  
-- CompTIA Security+ Exam Objectives
